@@ -1,0 +1,10 @@
+number1=2*3
+print(number1)
+number2=2**3
+print(number2)
+number3=(2+3)*4
+print(number3)
+number4=0.1+0.2
+print(number4)
+number5=1/2
+print(number5)
